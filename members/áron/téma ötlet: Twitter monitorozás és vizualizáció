@@ -1,0 +1,14 @@
+https://bidyutchanda.github.io/2018-11-23-twitter/?fbclid=IwAR3oTduh5kQBhV5pih-KBuE0jCbZajRNH-a4H4I6E66IJDYEFE_LfFTTbyo
+
+Ezt a prog@rajk csoportba linkelted be Endre, és egy társadalomtudományi szempontból hihetetlenül hasznos eszköznek találtam.
+Van egy Neticle nevű budapesti start-up, ami valami nagyon hasonlót csinál FB-kommentekkel, ez úgy tűnik, mintha sokkal egyszerűbb 
+és menőbb lenne.
+
+Engem tökre érdekelne a Twitterról való adatgyűjtés - ezeknek a hangulatelemzése és a vizaulizáció része (akár általánosságban, akár ezzel a projekttel kapcsolatosan).
+Tableau-val kezdtem térképes vizualizációkat csinálni, de tök jó lenne ha lehetne csinálni pár template-et, ami magától új ábrákat hoz 
+létre, ha frissül a felhasznált adatbázis.
+
+Kérdések:
+Ez tényleg egy egyszerű projket? Csak pár package-et kell telepíteni, és pár sor kód, és már gyűjti is az adatot? 
+A linkelt html-kód azért már kicsit húzósabbnak tűnik, de ez azt jelenti, hogy a vizualizáció része a nehéz?
+
